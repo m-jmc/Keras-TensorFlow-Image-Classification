@@ -1,11 +1,3 @@
----
-output: 
-  html_document:
-    toc: TRUE
-    keep_md: TRUE
----
-
-
 
 ***
 
